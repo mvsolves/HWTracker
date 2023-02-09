@@ -1,0 +1,5 @@
+se350,final project,11,20,2022
+csc374,final exam in room 228,11,22,2022
+csc347,final exam with more words to test spaces,11,21,2022
+csc355,final exam in Classroom,11,16,2022
+se350,final exam in classroom 200,11,17,2022
